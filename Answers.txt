@@ -1,1 +1,6 @@
 4-2: A: 6, B: 7, C: 6
+9-1: 
+	1. myInt = 42, myFloat = 9.685
+	2. theInt = 84, the Float = 19.37
+	3. The value of myInt changes when multiply returns
+	4. 5
